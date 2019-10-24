@@ -1,0 +1,10 @@
+{
+  "projectId": "dco2gv",
+  "viewportHeight": 1200,
+  "viewportWidth": 1680,
+  "env": {
+    "QA": "QA",
+    "UAT": "UAT",
+    "PROD": "Production"
+  }
+}

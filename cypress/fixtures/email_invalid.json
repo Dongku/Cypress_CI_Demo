@@ -1,0 +1,92 @@
+{
+  "placeType":[
+    {
+      "id": "much.”more\\ unusual”@example.com",
+      "error": "Invalid email address format"
+    },
+    {      
+      "id": "very.unusual.”@”.unusual.com@example.com",
+      "error": "Invalid email address format"
+    },
+    {      
+      "id": "”(),:;<>[\\]@example.com",
+      "error": "Invalid email address format"
+    },
+    {      
+      "id": "plainaddress",
+      "error": "Invalid email address format"
+    },
+    {      
+      "id": "#@%^%#$@#$@#.com",
+      "error": "Invalid email address format"
+    },
+    {      
+      "id": "@example.com",
+      "error": "Invalid email address format"
+    },
+    {      
+      "id": "Joe Smith <email@example.com>",
+      "error": "Invalid email address format"
+    },
+    {      
+      "id": "email.example.com",
+      "error": "Invalid email address format"
+    },
+    {      
+      "id": "email@example@example.com",
+      "error": "Invalid email address format"
+    },
+    {      
+      "id": ".email@example.com",
+      "error": "Invalid email address format"
+    },
+    {      
+      "id": "email.@example.com",
+      "error": "Invalid email address format"
+    },
+    {      
+      "id": "email..email@example.com",
+      "error": "Invalid email address format"
+    },
+    {      
+      "id": "email@example.com (Joe Smith)",
+      "error": "Invalid email address format"
+    },
+    {      
+      "id": "email@example",
+      "error": "Invalid email address format"
+    },
+    {      
+      "id": "email@-example.com",
+      "error": "Invalid email address format"
+    },
+    {      
+      "id": "email@example.web",
+      "error": "Invalid email address format"
+    },
+    {      
+      "id": "email@111.222.333.44444",
+      "error": "Invalid email address format"
+    },
+    {      
+      "id": "email@example..com",
+      "error": "Invalid email address format"
+    },
+    {      
+      "id": "Abc..123@example.com",
+      "error": "Invalid email address format"
+    },
+    {      
+      "id": "あいうえお@example.com",
+      "error": "Invalid email address format"
+    },
+    {      
+      "id": "just”not”right@example.com",
+      "error": "Invalid email address format"
+    },
+    {      
+      "id": "this\\ is\"really\"not\\allowed@example.com",
+      "error": "Invalid email address format"
+    }
+  ]
+}

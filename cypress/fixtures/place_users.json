@@ -1,0 +1,70 @@
+{
+  "place":[
+    {
+      "id": 1,
+      "hasBeacons": "no",
+      "place_type": "Hybrid",
+      "email": "gdongku@gmail.com",
+      "email_Upper": "GDONGKU@GMAIL.COM",
+      "email_Camel": "gDongKu@GmaiL.cOm",
+      "password": "123456",
+      "placeName": "Kao Punn Pet Shop"
+    },
+    {
+      "id": 2,
+      "hasBeacons": "yes",
+      "place_type": "Public",
+      "email": "gdongku+10@gmail.com",
+      "password": "123456",
+      "placeName": "Bardeni Bar & Bistro"
+    },
+    {
+      "id": 3,
+      "hasBeacons": "no",
+      "place_type": "Private",
+      "email": "gdongku+20@gmail.com",
+      "password": "123456",
+      "placeName": "Cataholic Cafe"
+    },
+    {
+      "id": 4,
+      "hasBeacons": "no",
+      "place_type": "Private",
+      "email": "gdongku+30@gmail.com",
+      "password": "123456",
+      "placeName": "Rung Reung Pork Noodle and Coffee"
+    },
+    {
+      "id": 5,
+      "hasBeacons": "no",
+      "place_type": "exists",
+      "category": "Gyms",
+      "email": "gdongku@gmail.com",
+      "email_Upper": "GDONGKU@GMAIL.COM",
+      "email_Camel": "gDongKu@GmaiL.cOm",
+      "password": "123456",
+      "placeName": "If You Can",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "phoneNumber": "819111008",
+      "countryCode": "+66",
+      "country": "Thailand"
+    },
+    {
+      "id": 6,
+      "hasBeacons": "no",
+      "place_type": "non-corporate",
+      "category": "Gyms",
+      "email": "gdongku@yahoo.com",
+      "email_Upper": "GDONGKU@YAHOO.COM",
+      "email_Camel": "gDongKu@YaHoo.cOm",
+      "password": "123456",
+      "placeName": "If You Can",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "phoneNumber": "811234567",
+      "countryCode": "+66",
+      "country": "Thailand"
+    }
+  ]
+}

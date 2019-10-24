@@ -1,0 +1,253 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/d6c9XpcztyZ7q6VZzd25WyD3pryXGqZKbPmmy3FQ.category_big_icons/beauty_salon.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/q5dNjCAoRuuWQ3YxrrzmSgzzWQ8pu95OsYDoKwrK.category_vertical/barber_shop.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/WMvdYsHKGxC0Q30SoTTiBXEQdeAiZvo8Vr3eOuIq.category_horizontal/beauty.png",
+      "label": "Beauty Salon",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/jNAuu1CsTfUNZXeFJxFOTjpzFIGxF3XWHkbiQh6B.png",
+      "name": "Beauty Salons"
+    },
+    {
+      "id": 3,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/nlmprTH1QDnPhDZbSmC1TJnONEfoCt6hKHNrH0lO.category_big_icons/casino.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/1xOFYwVzkjmx2zr4GNvM46RANHWxnF8BVcsmgzmW.category_vertical/casino.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/SW2LxduRLqmM8q4sz4a5EwnJZI1jYcWu16vF5qBF.png",
+      "label": "Casino",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/rr0wQCAMPeHSu1lvzyYjmzOmTfebaHkBVgERCuTV.png",
+      "name": "Casinos"
+    },
+    {
+      "id": 4,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/W3ZX4AmymtIK3uI5i7wFRZyt9r5EUcvfApqpCh1Y.category_big_icons/church.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/eyAFEDVMXpRf2rT7UTECEgtwfEcNUa2py6wil5aB.category_vertical/religion.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/7k2YC9jtBDGZZCR92jANYVI3Sjr7M5WNH1yOChz4.category_horizontal/religion.png",
+      "label": "Church",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/lw3LCLT52SCDRQCrv0y5dOHfHsqEiPvRkYV19Lkp.png",
+      "name": "Churches"
+    },
+    {
+      "id": 5,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/6uLfWEPXdApVDufjrRbZWpjnG8SLIN54kawb2BUW.category_big_icons/city_hall.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/Jihr7Z9pCVFCiJlM2uRwGF16nSyu9Ht3ggGGxQfc.category_vertical/city_hall.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/swSWE2AesZiIPpoL00mEfgnfv0RIOmokWRxxvKFi.category_horizontal/city_hall.png",
+      "label": "City Hall",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/xTOC0eGQFULG2c0hQq4dSwiaOsi5JTt6iGIHmypA.png",
+      "name": "City Halls"
+    },
+    {
+      "id": 2,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/RbQtpc2zTnZ3fiUDScahj5q8P751twZ2Q93rhjs3.category_big_icons/coffee_shop.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/Nwy4E1p4aot64TWeqUogeVHpTriahiUrSJPCLrAj.category_vertical/coffee_shop.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/fcOuj6vrN8aqX8YRB3X5hFSUhXFJzsqBbKqzvVDL.category_horizontal/coffee.png",
+      "label": "Coffee Shop",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/WilkdQrabGRVkrmceutzvKVyFFo84Yr7kxSx1Ubq.png",
+      "name": "Coffee Shops"
+    },
+    {
+      "id": 22,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/nhfrvKXpl2A2DZcPqGz9sifpnb12Vc92mLhnI5ZS.category_big_icons/university.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/pWdwDIE3UOT3nxczPfhyRetOJqZZGiBWHHg1B1nB.category_vertical/university.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/vhmC0PWv9QxoTsTcWAsnYsGgQZuOJN6PSXxvRZLE.category_horizontal/university.png",
+      "label": "College & University",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/WaWgMwAteoK0ttMhg6ja1XBYtigEVEacP99mV4pL.png",
+      "name": "Colleges & Universities"
+    },
+    {
+      "id": 24,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/I0zQEnTQcSkoYSsiAoewQSKLokRhQHDxUVjqkZbT.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/FzPPnbLb3YMlwTbgl7tHhtapGQQItIFQ3FxlhGL5.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/yZxEjr9PzXUWj5x9LKXTcxApYbTa3GkCd8jOlO0H.png",
+      "label": "Commercial Building",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/9BU1H31pB2dvz8wygdaOByfaZ7rqkpxOe0XR0gjg.png",
+      "name": "Commercial Buildings"
+    },
+    {
+      "id": 6,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/KxWWGHKSpDcLKXxVdAGnrR9J2OV3jem6APWvOgPv.category_big_icons/embassy.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/ko2wP2hLQzu5kRpo0ZCmXqlbVkrjI2cbNJQkj2Sf.category_vertical/embassy.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/kVUczD6QlJt2uxxypparNlz9JhPpD7g9lphdmf5t.category_horizontal/embassy.png",
+      "label": "Embassy",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/0KqQtFls6K7emyjUrL2DGztqd1myYnM502Xjnfch.png",
+      "name": "Embassies"
+    },
+    {
+      "id": 7,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/9sp4LtukceialhxtXgjbj8GHIVBTNFN1zlMBuEhE.category_big_icons/emergency.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/wz3r9m6zJtmTaCpGxkrl5bHWgp3NJFY8ukacyBLE.category_vertical/emergency.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/0cyLDh8espsga7i1zAOztPLiuNEHep0vV3VdsfR0.category_horizontal/emergency.png",
+      "label": "Emergency Facility",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/lcIP4OE2jHskceif7Zh0RT2LOitJUE996MIx5wn1.png",
+      "name": "Emergency Facilities"
+    },
+    {
+      "id": 23,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/P2TrKLsQwN4QGBHkcCcFhw8FFGEvmUnybDRbp14Y.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/JynbH6C0YRKZ3UQRwdXvOG90Tl4vW5iOY5KLcujO.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/PCngoq6b9yfaZuMsLoTTDrmYrRtQu1cINzCZS9Oo.png",
+      "label": "Financial Services Company",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/1DSVIDLZwavNYKrZHWakeanCgP7O0q7lGYY1x2xi.png",
+      "name": "Financial Services"
+    },
+    {
+      "id": 8,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/fEc1Z2TPH3M4VOvFaw1kdPhfZKxnCCVzg218KUTv.category_big_icons/golf.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/0azu71v3Pe2ndNziBvq3ObnfGp3fkgZPBwHzPcu3.category_vertical/golf.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/eC4VtKgkCPxmox4Xs7dRUrjoKw9Wk6qX8cHj8tbD.category_horizontal/golf.png",
+      "label": "Golf and Country Club",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/PGu0NyNJ0ZaXCvEw4dwVVSrYx3jDZQgPR1hSX8Em.png",
+      "name": "Golf and Country Clubs"
+    },
+    {
+      "id": 9,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/Z78HY47OzFhh8yNpbN3dj7RYsOE8lzKZmMNVnOcH.category_big_icons/gym.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/uXRgzfvAP43bi8hhu7kPMtUxsYD6DlPHuhXiidod.category_vertical/gym.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/HfGna1CS8xQ2XWDdnvaRukLBc1ptj8dMTxr0m6il.category_horizontal/gym.png",
+      "label": "Gym",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/a1ATJ2ZfowssUrN40RybmVmmhRPgfEpcBhyaK4g2.png",
+      "name": "Gyms"
+    },
+    {
+      "id": 10,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/d1Hz5Mo0ee77ERMbd8FCgee76u3Z4hJD25sr88L1.category_big_icons/hospital.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/xJN88E8f6HWQpdzHQuKGep5TJRZkkVAV62jIrYud.category_vertical/hospital.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/ys2bsQ3mgi8eVBvpfVZXS4JxJv5hGKeoO31e4CL9.category_horizontal/hospital.png",
+      "label": "Hospital",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/CUDR0lg7qZDj0n02quVX01DeUEybD18GifRVpKn7.png",
+      "name": "Hospitals"
+    },
+    {
+      "id": 12,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/4BBooXqvdESMJdeEaxXSTE0JCGY2NgcoGCe9xe2e.category_big_icons/hotel.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/iakDdUgYcKqbfX9akgjlRcsJRUsll86zYmll4czq.category_vertical/hotel.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/mJpbmbqdf7SbyYgjQYLT73qBeqNo0oTocMyCTh1t.category_horizontal/hotel.png",
+      "label": "Hotel",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/FNrcrcrZydxwO4zvCK8jMY9Zbl5v0ei7CGMvPboO.png",
+      "name": "Hotels"
+    },
+    {
+      "id": 11,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/XuotTWdye9jpW1pH9MIitl7swH0Lflty6y4NEJf4.category_big_icons/insurance.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/L8pSBaU5O4GWyjqm4Wy0fVrxLtkujDzDP0YK9AQZ.category_vertical/insurance.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/mjwCclowDQ3HgaQRjABOjZ0KhinfsP6FkLnFsgvV.category_horizontal/insurance.png",
+      "label": "Insurance Company",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/xgnTzJAtpSejH1Cvp5pTaGGiyelLnae4Qs4ltnNb.png",
+      "name": "Insurance Companies"
+    },
+    {
+      "id": 13,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/h7IfWqUEqbbV4P19CS5tK0TxS7gqVhC44lteH3iM.category_big_icons/meal_delivery.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/a8I75yucOC1oVbRauXt14lEUbwHW8fL4IG1w1mRl.category_vertical/meal_delivery.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/WB8O7jLMSER9u6KIIVe41wg8OMaL4Tk9fHavIf4v.category_horizontal/delivery.png",
+      "label": "Meal Delivery",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/bzZtFQPuCCmDGTQ6tvonGmq5HyMx3RZ46xtfiBFk.png",
+      "name": "Meal Delivery"
+    },
+    {
+      "id": 14,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/1btnIIiyd4WcceJHq04CXEFGD7yxBn2sZcd54kCV.category_big_icons/night_club.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/q6d4HmqUGrh3s1y33TNyH48O3Qtds9eR7h1gvfay.category_vertical/night_club.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/TvlKuDHiqQpIziBGGkSedz4LkKFkqGdI6FTRRJoy.category_horizontal/night_club.png",
+      "label": "Night Club",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/cxtZEmn0teuHaSTo2AylrDdtMcKL0QfGz7QJ6wsT.png",
+      "name": "Night Clubs"
+    },
+    {
+      "id": 28,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/K2CfsMtFE39QABXtoE6MjzP0zbtU2lYwosiXlxvX.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/1sqd1AoVFxAELdB34mCuweS75QKb7F7rRsvLjBVH.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/Rw1sJXYCjEyMIv43WMGuV4vtyyGRjHYedQDnwCaN.png",
+      "label": "Office",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/hNYDoNBBgHzqdqb0SOY8R8stEuLKX3w4qFvlfZaN.png",
+      "name": "Offices"
+    },
+    {
+      "id": 25,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/z7PdyDLhICR2agm6SlfmJTK13z0KlbNgllMPnSlS.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/zf8QtKTi38Qwe6BhMHnE7K4mapOyhAcux3NuY6aq.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/hxihegPuCIsSKsFK692nLY6dNpkYSRBG9WrIrLcm.png",
+      "label": "Other Places",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/mypFj4uLyOZDfCLYu9oHJxUlOSNzc6HSzuVliEc2.png",
+      "name": "Other"
+    },
+    {
+      "id": 15,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/8MIqV5CZCb21ZK0OyFO2raFhcbeRGUGJGChUOiGw.category_big_icons/parking.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/iArv4YIc695jYkHEMeR8hAdWPNP2kp3njv2rq7pE.category_vertical/parking.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/vHpxfaI742n0Q6LHJ0TeDwFwY9HKlzTWUgeL4QUK.category_horizontal/parking.png",
+      "label": "Parking Lot",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/xaT3VLqy7p2DxuhbaCfPlZzOFQMj1yVXGhFhVUfg.png",
+      "name": "Parking Lots"
+    },
+    {
+      "id": 16,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/PjGa9b4pTeTplPffEKQTdPBcBua9bNprlRxySlzp.category_big_icons/police.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/kvlVxxlL3xAx4SV9wme2kJFcRDC4RIoaO7ZtboGs.category_vertical/police_station.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/BGDpDkoQT5lZSDi11H3MJBOKh03TYas9mKnWc5Qn.category_horizontal/police.png",
+      "label": "Police Station",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/gYYTz3SSqct965QDL765qcAVgsqTKxpwyZMxwcoS.png",
+      "name": "Police Stations"
+    },
+    {
+      "id": 26,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/1CNlKvwsem7mYQJQkC6AcoaJREsLIVLJr9hXooKC.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/fExgTzsucbJju78Dmn62tnoiEJKeNy4qvzbTN7nt.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/pdeQlvn2kJv4wN8TN6s7KFvakoAk7PuAvnvKYk4x.png",
+      "label": "Residential Building",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/c9MMHbW3SZYvyztG3687OPZHhsn13UiZcp24bqtT.png",
+      "name": "Residential Buildings"
+    },
+    {
+      "id": 17,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/hgSOpdB4jnKqJfth7ZXPtLypCLZXyShXy5HUL9GW.category_big_icons/restaurant.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/Ak5YTcxUJ5Ez5nfyPamhMxLIiLaCPlgyPafOvC6F.category_vertical/restaurant.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/eRzSoJ7EdwjOpuRnppq7LI8WA0Fvtq1b1da1boIZ.category_horizontal/restaurant.png",
+      "label": "Restaurant",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/dgWEONWJoc7VAkI3RO5nHKI5WE16hd6KCL52nnhv.png",
+      "name": "Restaurants and Bars"
+    },
+    {
+      "id": 18,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/VedhTOURTMgzU25hfxyVkselAi2CIUmtkZOJzq2g.category_big_icons/school.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/2SxnbvCtXE9ckJZKkZEZcDfqVLVbBT0N2NbvBXWo.category_vertical/school.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/obMl12HWhTxkbxpyZyYBefK8iE4d4bHgkQ27aH2k.category_horizontal/school.png",
+      "label": "School",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/d0UOz99YGKHoNHAqWui4vGKAZClZzMxeuGIar68D.png",
+      "name": "Schools"
+    },
+    {
+      "id": 19,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/OkCHFyIdZtp7QLdS1IybRTN59KZLR8uf7t0xN5m5.category_big_icons/shopping_moll.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/sw4QDOpMGhdaqVJmCVMWU3TWaEGo3VTr3L9O1nKH.category_vertical/shopping_mall.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/Sa9FAfs5u7Kh4VkndRdPbyxAQRQKcxXmrtMiyHBA.category_horizontal/shopping_mall.png",
+      "label": "Shopping Mall",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/bFWeei4CPb0pPzYGdPAOrVFCzzix0kkPzv3BesAS.png",
+      "name": "Shopping Malls"
+    },
+    {
+      "id": 20,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/y7nKJvw8QZ7zDjnQ4UXuPPInjzqYv8F4zqfqCbQY.category_big_icons/spa.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/QftXgU4h0wOC7wIOuPZdgyeGcdAF80EYnYHpE7JL.category_vertical/spa.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/rILh4BsOfKI2MhWtssBb7H2bBhlmpH6dmVfyruDG.category_horizontal/spa.png",
+      "label": "Spa",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/DqPW6zWLTORqJ7bMH6iELJRTxivnQLLfpv2FXObD.png",
+      "name": "Spas"
+    },
+    {
+      "id": 21,
+      "bigIcon": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/fXQCg96ZsFnl45GFj4tg8TD1lH2zf8tho6hqAf36.category_big_icons/store.png",
+      "categoryImage": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/4vP7o3NqJvu9wXVpH5E4zo774mSufaGTuKLWFmyh.category_vertical/store.png",
+      "image": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/BDEBE2dqoWXHl2RKvYrwqEh6BbvklSrFsbTdcIQX.category_horizontal/store.png",
+      "label": "Store",
+      "logo": "https://ifyoucan-notify.s3.amazonaws.com/logos/category/TUOhbDSrsFeTYjpfcrbJu0mKWXiUYEUKF1D7XSbn.png",
+      "name": "Stores"
+    }
+  ],
+  "meta": {
+    "currentPage": 1,
+    "lastPage": 1,
+    "perPage": 100,
+    "total": 27
+  }
+}

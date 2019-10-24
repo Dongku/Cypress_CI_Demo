@@ -1,0 +1,16 @@
+{
+  "placeType":[
+    {
+      "id": 1,
+      "type": "Hybrid"
+    },
+    {      
+      "id": 2,
+      "type": "Public"
+    },
+    {
+      "id": 3,
+      "type": "Private"
+    }
+  ]
+}

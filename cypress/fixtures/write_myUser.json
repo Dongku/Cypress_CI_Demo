@@ -1,0 +1,45 @@
+{
+  "id": 450,
+  "fullName": "Paid Yearly",
+  "email": "gdongku0001@gmail.com",
+  "avatar": null,
+  "timezone": null,
+  "createdAt": "2019-10-21T15:31:18.000Z",
+  "updatedAt": "2019-10-21T15:31:18.000Z",
+  "places": [
+    {
+      "id": 457,
+      "name": "Sunnyvale",
+      "email": "gdongku0001@gmail.com",
+      "paypalEmail": null,
+      "cardBrand": null,
+      "cardLastFour": null,
+      "trialEndsAt": "2019-11-05T15:31:18.000Z",
+      "createdAt": "2019-10-21T15:31:17.000Z",
+      "updatedAt": "2019-10-21T15:31:18.000Z",
+      "info": {
+        "authMethod": "hybrid",
+        "about": null,
+        "website": null,
+        "isSuspended": false,
+        "logo": "https://ifyoucan-notify.s3.amazonaws.com/"
+      }
+    }
+  ],
+  "roles": [
+    {}
+  ],
+  "defaultLanguage": [
+    {
+      "id": 1,
+      "code": "en",
+      "name": "English",
+      "sortOrder": 0,
+      "status": 0,
+      "nativeName": "English"
+    }
+  ],
+  "interested": {
+    "beacon": false
+  }
+}
